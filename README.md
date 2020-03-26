@@ -11,3 +11,8 @@
 * 条件表达式
 ## day03 主要学习了以下内容
 * 函数
+## day04 主要学习了以下内容
+* do while
+* break;continue
+* goto
+* 函数与程序结构
